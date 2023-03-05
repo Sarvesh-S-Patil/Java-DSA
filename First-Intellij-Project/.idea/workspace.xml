@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d12f59e-941f-45dc-9fac-ad5e7cc7d6ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First-Intellij-Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/DollarConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Assignments/Simple_Intrest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Sarvesh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Sarvesh/Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Sarvesh/Typecasting.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AyIaBpj9SLnSL6hEfXg1yecWYO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sarve/OneDrive/Desktop/Java Projects/Java Tutorial Projects/First-Intellij-Project"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="DollarConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.DollarConvertor" />
+      <module name="First-Intellij-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.FibonacciSeries" />
+      <module name="First-Intellij-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.LargestNumber" />
+      <module name="First-Intellij-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.Palindrome" />
+      <module name="First-Intellij-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simple_Intrest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Assignments.Simple_Intrest" />
+      <module name="First-Intellij-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.DollarConvertor" />
+        <item itemvalue="Application.LargestNumber" />
+        <item itemvalue="Application.Simple_Intrest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d12f59e-941f-45dc-9fac-ad5e7cc7d6ba" name="Changes" comment="" />
+      <created>1655975461139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655975461139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
