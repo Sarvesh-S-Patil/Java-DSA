@@ -1,5 +1,7 @@
 package com.sarvesh.staticexample;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         Human Sarvesh = new Human(20,"Sarvesh Patil",100000,false);
@@ -9,6 +11,9 @@ public class Main {
         System.out.println(Human.population);
          Main obj = new Main();
          obj.fun2();
+
+
+
     }
 
     public void fun2(){
