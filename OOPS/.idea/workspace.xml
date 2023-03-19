@@ -36,13 +36,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.sarvesh.oops3.access.Main">
+  <component name="RunManager" selected="Application.com.sarvesh.abstraction.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sarvesh.staticexample.Main" />
       <module name="OOPS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sarvesh.staticexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.sarvesh.abstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sarvesh.abstraction.Main" />
+      <module name="OOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sarvesh.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sarvesh.properties.inheritance.Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sarvesh.properties.inheritance.Singleton.Main" />
-      <module name="OOPS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sarvesh.properties.inheritance.Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.sarvesh.properties.polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sarvesh.properties.polymorphism.Main" />
       <module name="OOPS" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sarvesh.abstraction.Main" />
         <item itemvalue="Application.com.sarvesh.oops3.access.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.sarvesh.properties.polymorphism.Main" />
         <item itemvalue="Application.com.sarvesh.properties.inheritance.Main" />
-        <item itemvalue="Application.com.sarvesh.properties.inheritance.Singleton.Main" />
       </list>
     </recent_temporary>
   </component>
