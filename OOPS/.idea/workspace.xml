@@ -42,7 +42,20 @@
       <recent name="com.sarvesh.Generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaFunctions">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sarvesh.ExceptionHandling.Demo" />
+      <module name="OOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sarvesh.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sarvesh.Generics.LambdaFunctions" />
       <module name="OOPS" />
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sarvesh.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sarvesh.interfaces.Main" />
-      <module name="OOPS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sarvesh.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.sarvesh.interfaces.multipleInheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sarvesh.interfaces.multipleInheritance.Main" />
       <module name="OOPS" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.sarvesh.Generics.Main" />
         <item itemvalue="Application.com.sarvesh.interfaces.multipleInheritance.Main" />
-        <item itemvalue="Application.com.sarvesh.interfaces.Main" />
       </list>
     </recent_temporary>
   </component>
