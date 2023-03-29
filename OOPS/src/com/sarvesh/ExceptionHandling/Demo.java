@@ -17,7 +17,10 @@ public class Demo {
         }
         System.out.println(result);
     }
-    static int divide(int a, int b){
+    static int divide(int a, int b) throws  ArithmeticException{
+        if(b==0){
+            throw new ArithmeticException("Input is invalid");
+        }
         return a/b;
     }
 }

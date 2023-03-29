@@ -42,7 +42,7 @@
       <recent name="com.sarvesh.Generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Vectors">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sarvesh.ExceptionHandling.Demo" />
       <module name="OOPS" />
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sarvesh.Generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sarvesh.Generics.Main" />
+    <configuration name="Vectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sarvesh.collections.Vectors" />
       <module name="OOPS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sarvesh.Generics.*" />
+          <option name="PATTERN" value="com.sarvesh.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sarvesh.interfaces.multipleInheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sarvesh.interfaces.multipleInheritance.Main" />
+    <configuration name="com.sarvesh.cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sarvesh.cloning.Main" />
       <module name="OOPS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sarvesh.interfaces.multipleInheritance.*" />
+          <option name="PATTERN" value="com.sarvesh.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vectors" />
+        <item itemvalue="Application.com.sarvesh.cloning.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.sarvesh.Generics.Main" />
-        <item itemvalue="Application.com.sarvesh.interfaces.multipleInheritance.Main" />
       </list>
     </recent_temporary>
   </component>
